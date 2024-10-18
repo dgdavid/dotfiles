@@ -1,0 +1,7 @@
+[user]
+	name = David Díaz González
+	email = diazglezdavid@gmail.com
+
+[includeIf "gitdir:~/development/suse/"]
+	path = ~/.gitconfig_suse
+
